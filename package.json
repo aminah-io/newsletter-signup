@@ -4,7 +4,7 @@
   "description": "Allow users to signup for a newsletter with MailChimp API",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Aminah Burch",
   "license": "ISC",
